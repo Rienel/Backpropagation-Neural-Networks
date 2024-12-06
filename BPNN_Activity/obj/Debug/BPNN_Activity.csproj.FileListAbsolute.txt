@@ -1,0 +1,10 @@
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\bin\Debug\BPNN_Activity.exe.config
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\bin\Debug\BPNN_Activity.exe
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\bin\Debug\BPNN_Activity.pdb
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\obj\Debug\BPNN_Activity.csproj.AssemblyReference.cache
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\obj\Debug\BPNN_Activity.Form1.resources
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\obj\Debug\BPNN_Activity.Properties.Resources.resources
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\obj\Debug\BPNN_Activity.csproj.GenerateResource.cache
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\obj\Debug\BPNN_Activity.csproj.CoreCompileInputs.cache
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\obj\Debug\BPNN_Activity.exe
+C:\Users\pcx\Documents\SCHOOL 3RD YEAR\CS345\BPNN_Activity\BPNN_Activity\obj\Debug\BPNN_Activity.pdb
